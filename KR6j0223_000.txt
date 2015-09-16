@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說護諸童子陀羅尼經
+#+DATE: 2015-08-30 20:28:15.713770
+#+PROPERTY: JUAN 0
